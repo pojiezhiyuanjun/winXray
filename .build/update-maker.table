@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="发布 v1.7.1，细节优化，支持直接使用 github.com 项目文件地址作为订阅源，兼容raw,blob格式，示例  https://github.com/winXray/winXray/blob/master/sub/sample.json ";
+outputDir="/release/update/"
+}
